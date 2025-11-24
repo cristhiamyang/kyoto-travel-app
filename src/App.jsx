@@ -21,7 +21,7 @@ import {
 // --- 配置區塊 (請在此處替換您的 API Key) ---
 
 // ❗️ 請前往 OpenWeatherMap 註冊並取得您的 API Key 
-const OPEN_WEATHER_API_KEY = "YOUR_OPEN_WEATHER_API_KEY"; // <<-- 替換成您的真實金鑰
+const OPEN_WEATHER_API_KEY = "9c003173b998d8e071466f107f7a68ca"; // <<-- 替換成您的真實金鑰
 
 // 定義城市座標 (大阪、京都、奈良、神戶)
 const CITY_COORDINATES = {
